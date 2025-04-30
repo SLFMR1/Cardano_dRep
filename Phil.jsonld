@@ -67,25 +67,20 @@
       "contentUrl": "https://pbs.twimg.com/profile_images/1800515612310933504/9ZxzZjO3_400x400.jpg",
       "sha256": "4b811864904698e7ccd04008fe539708647f04d76b6036bab2d9629de3863c6f"
     },
-    "motivations": "I’m driven by the goal of helping Cardano grow into a commercially successful and widely adopted blockchain platform, that's why I joined NMKR in 2021.",
+    "motivations": "I’m driven by the goal of helping Cardano grow into a commercially successful and widely adopted blockchain platform, this is also why I joined NMKR in 2021.",
     "objectives": "Low Budget, Pragmatic Decisions, Focus on Adoption",
     "paymentAddress": "addr1qxcfuhwffx6vff9258x099yg69eqmrl8ccjln9vc9mu09pj6ssrqwysnlrx5453denqtv22ks5vjgqtlsf6nqdju0crsqc82yw",
     "qualifications": "Executive Assistant to Patrick Tobler (Founder & CEO of NMKR), actively engaged in the Cardano ecosystem since 2020. This role has given me deep exposure to the operational, technical, and strategic aspects of building in the Cardano space.\n\nInvestment & Development Insight: I possess a strong understanding of investment fundamentals and blockchain development, enabling me to assess proposals through both technical and economic lenses.\n\nPragmatic Evaluator: I only vote on proposals where I have sufficient expertise, ensuring responsible and informed governance decisions.",
     "references": [
       {
         "@type": "Link",
-        "label": "X Profile",
+        "label": "X.com",
         "uri": "https://x.com/SLFMR1"
-      },
-      {
-        "@type": "Link",
-        "label": "NMKR Website",
-        "uri": "https://www.nmkr.io/"
       },
       {
         "@type": "Identity",
-        "label": "",
-        "uri": "https://x.com/SLFMR1"
+        "label": "NMKR Website",
+        "uri": "https://nmkr.io"
       }
     ]
   }
